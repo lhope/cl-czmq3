@@ -1,4 +1,6 @@
-# cl-czmq - A re-binding of the C binding for the zmq transport layer (czmq) #
+# cl-czmq3 - A re-binding of the C binding for the zmq transport layer (czmq) #
+
+**Under development, not yet for end-users**
 
 ## Overview ##
 
